@@ -1,0 +1,15 @@
+# devkitPro build output
+build/
+*.nro
+*.nso
+*.elf
+*.nacp
+*.map
+*.lst
+
+# editor / OS junk
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
